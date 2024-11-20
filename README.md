@@ -1,46 +1,64 @@
-<!-- Contagem de visualizações do perfil -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandavecoski-github&label=Visualizações%20do%20perfil&color=blueviolet&style=flat" alt="Visualizações do perfil" />
-</p>
-
-<!-- GIF de boas-vindas -->
-<p align="center">
-  <img src="URL_DO_SEU_GIF_DE_WELCOME" alt="Welcome GIF" width="500" />
-</p>
-
-<!-- Sobre mim -->
-<h2 align="center">Sobre Mim</h2>
-<p align="center">
-  Olá! Eu sou [Seu Nome], um apaixonado por [sua área de interesse]. Estou sempre aprendendo e buscando novos desafios!
-</p>
-
-<!-- Espaços retangulares para informações -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="URL_DO_SEU_GIF_1" alt="Gif 1" width="200" />
-        <p>Informação sobre algo legal</p>
-      </td>
-      <td>
-        <img src="URL_DO_SEU_GIF_2" alt="Gif 2" width="200" />
-        <p>Mais uma informação interessante</p>
-      </td>
-      <td>
-        <img src="URL_DO_SEU_GIF_3" alt="Gif 3" width="200" />
-        <p>Outra coisa que gosto de fazer</p>
-      </td>
-    </tr>
-  </table>
+  <h1>♱</h1>
 </div>
 
-<!-- Estilos adicionais (opcional) -->
-<style>
-  h2 {
-    color: #4a90e2;
-  }
-  p {
-    font-size: 18px;
-    line-height: 1.5;
-  }
-</style>
+
+<div align="center">
+  <img src="https://i3.glitter-graphics.org/pub/2811/2811843q031f1e2g9.gif" alt="Welcome Gif" width="300"/>
+</div>
+
+<div align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/5/6/1/0/2520165_95b86.gif" alt="Welcome Gif" width="300"/>
+</div>
+
+
+<div align="center">
+
+🦇⠀᛬ㅤㅤ   ┈─ㅤㅤ੭ৎㅤㅤ𝅄  ⠀   🗯️   ♡ ┈─╯
+
+</div>
+
+## ✶ Oie, sou a **Amanda**!  
+
+┈── ⠀☺︎ Estudante de **Letras Português** na UTFPR; 🦇
+
+┈── ⠀☺︎ 18 anos de nerdice e choro;
+
+┈── ⠀☺︎ Programação por puro hobbie e desenvolvimento pessoal;
+
+┈── ⠀☺︎ Leitora com humor ácido;
+
+┈── ⠀☺︎ Claramente fã de vampiros esquisitos e twinks.
+
+<p>
+
+<div align="center">
+
+ 🗯️ Minhas coisas favoritas:  ♡ ┈─╯  
+
+</div>
+
+  
+</p>
+
+ <div align="center">
+
+| <img src="https://i.pinimg.com/originals/9a/1c/db/9a1cdb454468746d76dd54ae23e3d52f.gif" width="150"/> | <img src="https://i.gifer.com/origin/20/20c5e66bb669ca9699b2bdcc3cc2dbe3_w200.gif" width="150"/> | <img src="https://img1.picmix.com/output/pic/normal/3/8/2/8/10938283_dc751.gif" width="150"/> | <img src="https://64.media.tumblr.com/c09d4d7b94efc59c396680ce90c95ed6/1d6ada1f814693c9-0e/s250x400/7ce6fd539b14967ee07496215f005ffc5ba74454.gif" width="150"/> | <img src="https://img1.picmix.com/output/pic/normal/7/6/6/5/11815667_71210.gif" width="150"/> |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+</div>
+
+
+
+## 🚀 Meus Projetos  
+Em andamento..
+
+---
+
+## 📫 Entre em contato!  
+Se quiser bater um papo comigo ou colaborar em algo, me manda mensagem em:  
+- **Twitter**: @lestatkoski
+
+
+
+> ☆*: .｡. o(≧▽≦)o .｡.:*☆.
+
